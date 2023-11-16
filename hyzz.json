@@ -1,66 +1,42 @@
-{
-  "categories": [
-    {
-      "name": "Home Made",
-      "image": "https://1.bp.blogspot.com/-TJOiyoycrEo/YRNwISf3cuI/AAAAAAAAAjw/P1bu3A5ItvQaspnKo41sJvqlg3xCeA4gACLcBGAsYHQ/s200/outline_movie_creation_black_48.png"
-    }
-  ],
-  "Recent": [
-    {
-      "title": "Bighero",
-      "desc": "ရွင္းလင္းခ်က္မရွိ!!",
-      "image": "https://1.bp.blogspot.com/-dKHY4dSa9sY/YRQFZJ1W6xI/AAAAAAAAAj4/LmtnoDiTVv4vpLLVf-6DEGS7HePGXqT7wCLcBGAsYHQ/s200/big-hero-6.0.0.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210423/ebd8c5ed1a4942b.mp4",
-      "category": "Action"
-    }],
-    {
-      "title": "spiderman home coming",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-OiblPS1jQ2s/YRQGZubLAsI/AAAAAAAAAkA/wP7PpZaBCyEUigBbkJxuz31yRXgeGPKyQCLcBGAsYHQ/s200/IMG_20210811_234146_380.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210528/8f974054e9044f9.mp4",
-      "category": "Drama"
-    },
-    {
-      "title": "karnar 2021",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-ldzoAl-8iIg/YRTOSTe_G1I/AAAAAAAAAkg/EW2JoqCaLsUd9TW5b0sp8vqO7F5BC3eUgCPcBGAYYCw/s320/IMG_20210812_135630_591.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210517/1531fc19e07d4fb.mp4",
-      "category": "Action"
-    },
-    {
-      "title": "Godzila 2021",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-_LweDX9cEVU/YRXx-M0eVbI/AAAAAAAAAlI/N69Hv1SXTyAXF51shYH7vH5XyOZHkJcAwCLcBGAsYHQ/s320/images%2B%25284%2529%2B%25282%2529.jpeg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210424/2ec727e08162433.mp4",
-      "category": "Action"
-    },
-    {
-      "title": "venom 2018",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-8CMw_CFdVtA/YRYiJuUes1I/AAAAAAAAAlY/uqbAfK-zVfAjNAxPYOy9w4vBIclJUwKpACLcBGAsYHQ/s320/91LmkiOyjHL._SL1500_.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210531/7d2f3d9c3bf34ee.mp4",
-      "category": "Action"
-    },
-    {
-      "title": "Avenger Age of Ultron 2015",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-xd9wCbuPU3A/YRYoMx7zVdI/AAAAAAAAAlg/pz6LHx_yPG8aYk8kphbnuwxGii9trv6agCLcBGAsYHQ/s320/p10745606_p_v10_aq.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210531/108abe1f638e433.mp4",
-      "category": "Action"
-    },
-    {
-      "title": "captain america winter solder",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-_JPunlwG58Q/YRnsb3XoeJI/AAAAAAAAAmY/US46BPTGRvM3Viyc0NQZyxQyQjuLwRxWwCLcBGAsYHQ/s320/IMG_20210816_110657_916.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210531/1cbcaf497d1a46b.mp4",
-      "category": "Action"
-    },
-    {
-      "title": "mortal kombat 2021",
-      "desc": "This is a description.",
-      "image": "https://1.bp.blogspot.com/-ms1JLsXSM7g/YRn4yIzKu3I/AAAAAAAAAnQ/-YCG8YsZVbgkq_wwQB_GzkNNgBtZwREoACLcBGAsYHQ/s320/IMG_20210816_120315_390.jpg",
-      "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210426/A26E35FDA5514743B97.mp4",
-      "category": "Action"
-    }]}
-  
+{"categories":[
+{"name":"Recent", "image":"recent_img_link"
+},
+{"name":"Action", "image":"action_img_link"
+},
+{"name":"Drama", "image":"drama_img_link"
+},
+{"name":"Horror", "image":"horror_img_link"
+},
+{"name":"Suspense", "image":"suspense_img_link"
+}],
 
+"Recent":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link", "category":"Action"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link", "category":"Drama"
+}],
+
+"Action":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}],
+
+"Drama":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}],
+
+"Horror":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}],
+
+"Suspense":[
+{"title":"title1", "desc":"desc1", "image":"img_link", "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+}]
+}

@@ -9,11 +9,11 @@
       "image": "https://i.imgur.com/69RMs4M.jpg"
     },
     {
-      "name": "cartoon",
+      "name": "hidden",
       "image": "https://i.imgur.com/69RMs4M.jpg"
     },
     {
-      "name": "Horror",
+      "name": "solo",
       "image": "https://i.imgur.com/69RMs4M.jpg"
     }
   ],
@@ -137,7 +137,7 @@
       "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210426/b5d63b232f9c479.mp4"
     }
   ],
-  "cartoon": [
+  "hidden": [
     {
       "title": "အေမႊစိန္ေလး",
       "desc": "အေမႊစိန္ေလးဘာေတြေမႊမလဲၾကည့္ရေအာင္ေနာ္",
@@ -187,7 +187,7 @@
       "link": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210601/1f64be4480424e8.mp4"
     }
   ],
-  "Horror": [
+  "solo": [
     {
       "title": "Train to busan 2016",
       "desc": "ေဖာ္ျပခ်က္မရွိပါ။",
